@@ -1,7 +1,7 @@
 return {
   "akinsho/bufferline.nvim",
   keys = {
-    { "<leader>bj", "<Cmd>BufferLinePick<CR>", desc = "Jump to a buffer" },
+    { "<leader>bj", "<Cmd>BufferLinePick<CR>", desc = "Jump to Buffer" },
   },
   opts = {
     options = {
