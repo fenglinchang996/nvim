@@ -14,9 +14,9 @@ return {
         Info = { color = colors.info },
         Hint = { color = colors.hint },
         Misc = { color = colors.purple },
-        GitAdd = { text = "│", color = colors.gitSigns.add },
-        GitChange = { color = colors.gitSigns.change },
-        GitDelete = { color = colors.gitSigns.delete },
+        GitAdd = { text = "│", color = colors.git.add },
+        GitChange = { color = colors.git.change },
+        GitDelete = { color = colors.git.delete },
       },
       handlers = {
         gitsigns = true,
