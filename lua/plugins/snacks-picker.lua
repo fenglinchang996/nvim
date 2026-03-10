@@ -8,6 +8,7 @@ return {
             preset = "default",
           },
           hidden = true,
+          auto_close = true,
         },
       },
     },
