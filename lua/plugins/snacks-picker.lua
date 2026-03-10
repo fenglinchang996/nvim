@@ -8,7 +8,6 @@ return {
             preset = "default",
           },
           hidden = true,
-          ignored = true,
         },
       },
     },
