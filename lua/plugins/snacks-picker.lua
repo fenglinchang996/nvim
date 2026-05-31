@@ -5,7 +5,7 @@ return {
       sources = {
         explorer = {
           layout = {
-            preset = "default",
+            preset = "dropdown",
           },
           hidden = true,
           auto_close = true,
